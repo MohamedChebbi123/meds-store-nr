@@ -24,6 +24,6 @@ An online pharmacy store where users can browse and purchase medicines. The plat
 - **Database**: MySQL (XAMPP for local development)
 - **Chatbot**: AI-based assistant for user queries
 
-  to install use npm i for both backend and frontend
-  to run backned use : nodemon server.js
-  to run frontend use : npm run dev 
+## to install use npm i for both backend and frontend
+- to run backned use : nodemon server.js
+- to run frontend use : npm run dev 
